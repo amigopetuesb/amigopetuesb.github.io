@@ -109,3 +109,9 @@ footer {
 .instagram-link:hover {
   text-decoration: underline;
 }
+
+.lista-sem-ponto {
+  list-style: none;
+  padding-left: 0;
+}
+
