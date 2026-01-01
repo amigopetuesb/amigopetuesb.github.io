@@ -4,6 +4,7 @@ Verde:        #2da44e
 Cinza:        #333333
 Fundo:        #f9f9f9
 DarkOrange: 	#ff8c00
+Red:          #FF0000	
 ============================ */
 
 /* ===== Configuração geral ===== */
@@ -52,7 +53,8 @@ nav a {
 }
 
 nav a:hover {
-  color: #2da44e;
+  color: #ff8c00;
+;
 }
 
 /* ===== Seções ===== */
