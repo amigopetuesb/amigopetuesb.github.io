@@ -22,7 +22,7 @@ header h1 {
 
 /* ===== Logotipo ===== */
 .logo {
-  max-width: 160px;   /* ajuste aqui se quiser */
+  max-width: 260px;   /* ajuste aqui se quiser */
   height: auto;
   display: block;
   margin: 0 auto 15px auto;
