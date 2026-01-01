@@ -1,8 +1,9 @@
 /* ===== Paleta de cores =====
-Azul:   #1f4fd8
-Verde:  #2da44e
-Cinza:  #333333
-Fundo:  #f9f9f9
+Azul:         #1f4fd8
+Verde:        #2da44e
+Cinza:        #333333
+Fundo:        #f9f9f9
+DarkOrange: 	#ff8c00
 ============================ */
 
 /* ===== Configuração geral ===== */
@@ -25,7 +26,8 @@ header {
 header h1 {
   margin: 10px 0;
   font-size: 2.4em;
-  color: #1f4fd8;
+  /*color: #1	#f4fd8;*/
+  color: 	#ff8c00
 }
 
 /* ===== Logotipo ===== */
