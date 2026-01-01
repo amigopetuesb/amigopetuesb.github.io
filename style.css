@@ -53,7 +53,6 @@ nav a {
 
 nav a:hover {
   color: #2da44e;
-
 }
 
 /* ===== Seções ===== */
@@ -62,8 +61,7 @@ section {
 }
 
 section h2 {
-  /*color: #2da44e;*/
-  color: #ff8c00;
+  color: #2da44e;
 }
 
 /* ===== Rodapé ===== */
