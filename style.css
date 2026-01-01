@@ -94,3 +94,13 @@ footer {
     margin-bottom: 35px;
   }
 }
+
+.instagram-link {
+  color: #E1306C;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.instagram-link:hover {
+  text-decoration: underline;
+}
