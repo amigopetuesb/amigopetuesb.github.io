@@ -115,3 +115,20 @@ footer {
   padding-left: 0;
 }
 
+.lista-com-imagem {
+  list-style: none;
+  padding: 0;
+}
+
+.lista-com-imagem li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.lista-com-imagem img {
+  width: 22px;
+  height: auto;
+  margin-right: 10px;
+}
+
