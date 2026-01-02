@@ -191,3 +191,65 @@ footer {
   background: #256428;
 }
 
+.pagina-animal {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.animal-ficha {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+/* FOTO */
+.animal-foto img {
+  width: 100%;
+  border-radius: 14px;
+  object-fit: cover;
+}
+
+/* INFO */
+.animal-info p {
+  margin: 6px 0;
+}
+
+/* STATUS */
+.status {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  margin-bottom: 12px;
+}
+
+.status.verde {
+  background: #c8e6c9;
+  color: #256428;
+}
+
+/* BOTÃO */
+.botao-ajudar {
+  display: inline-block;
+  margin-top: 18px;
+  padding: 12px 18px;
+  background: #2e7d32;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.botao-ajudar:hover {
+  background: #256428;
+}
+
+/* RESPONSIVO */
+@media (max-width: 700px) {
+  .animal-ficha {
+    grid-template-columns: 1fr;
+  }
+}
+
